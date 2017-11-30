@@ -1,0 +1,24 @@
+header {
+  background-color: lightgreen;
+  height: 60px;
+  width: 101%;
+  margin-left: -6px;
+  margin-top: -7px;
+}
+#panel {
+  width: 97%;
+  height: 10%;
+  background-color: lightgreen;
+  margin-top: 41%;
+  margin-left: -10px;
+  position: absolute;
+
+}
+#hwhead {
+  margin-left: 40%;
+  font-size: 40px;
+}
+#toggle {
+  margin-top: 44%;
+  float: right;
+}
